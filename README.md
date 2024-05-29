@@ -20,3 +20,10 @@
 * **Python:** The primary programming language used for development.
 * **Requests:** A simple HTTP library for making API calls.
 * **Unittest:** Python’s built-in library for writing and running tests.
+
+## **How to Contribute:**
+
+**Fork the Repository:** Create a personal copy of the repository on your GitHub account.
+Clone the Repository: Clone your forked repository to your local machine.
+bash
+
