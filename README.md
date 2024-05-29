@@ -17,7 +17,8 @@
 - **Requests:** A simple HTTP library for making API calls.
 - **Unittest:** Python’s built-in library for writing and running tests.
 
-**How to Contribute:**
+### 
+### **How to Contribute:**
 #### 1. **Fork the Repository:** Create a personal copy of the repository on your GitHub account.
 #### 2. **Clone the Repository:** Clone your forked repository to your local machine.
    ```bash
@@ -36,7 +37,8 @@
    ```
 #### 6. **Submit a Pull Request:** Open a pull request to merge your changes into the main repository.
 
-**Installation Instructions:**
+### 
+### **Installation Instructions:**
 #### 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/WeatherPy.git
